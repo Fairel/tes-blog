@@ -1,0 +1,2 @@
+# tes-blog
+script bblog
